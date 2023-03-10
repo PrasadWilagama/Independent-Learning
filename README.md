@@ -16,3 +16,7 @@ Writing
 
 Day 05 
  Presentations
+ 
+Day 06 
+ Making Final Report and Final Presentations
+ 
