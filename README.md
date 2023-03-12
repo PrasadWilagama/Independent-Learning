@@ -20,3 +20,6 @@ Day 05
 Day 06 
  Making Final Report and Final Presentations
  
+ Day 07 
+ Final Presentations 
+ 
